@@ -1,0 +1,23 @@
+{% extends "layouts/base.html" %}
+{% block content %}
+	<div class="jumbotron jumbotron-fluid jumbotron-color">
+	<div class="container">
+		<div class="text-md-center font-weight-light">
+			<table class="table table-hover">
+				<thead>
+				    <tr>
+				      <th scope="col">Usługa</th>
+				      <th scope="col">Cena</th>
+				    </tr>
+				  </thead>
+				{% for elt in pricing%}
+				<tr>
+					<td>{{elt.service}}</td>
+					<td>{{elt.price}}</td>
+				</td>
+				{% endfor %}
+			</table>
+		</div>
+	</div>
+</div>
+{% endblock %}

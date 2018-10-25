@@ -1,0 +1,2345 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ch",
+				"CharField"
+			],
+			[
+				"htt",
+				"HttpRequest"
+			],
+			[
+				"c",
+				"cosmetics"
+			],
+			[
+				"si",
+				"Sites"
+			],
+			[
+				"ar",
+				"Articles"
+			],
+			[
+				"se",
+				"Section"
+			],
+			[
+				"S",
+				"Sites"
+			],
+			[
+				"tab",
+				"tabs"
+			],
+			[
+				"for",
+				"ForeignKey"
+			],
+			[
+				"Si",
+				"siteSectionID"
+			],
+			[
+				"u",
+				"urls"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"nabar",
+				"navbar-toggler"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"navbar",
+				"navbar-collapse"
+			],
+			[
+				"nav",
+				"navbarResponsive"
+			],
+			[
+				"navb",
+				"navbar-toggler"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"card",
+				"cards"
+			],
+			[
+				"s",
+				"scope"
+			],
+			[
+				"Sc",
+				"ScrumboradController"
+			],
+			[
+				"scr",
+				"scrumboard"
+			],
+			[
+				"ang",
+				"angular"
+			],
+			[
+				"Ca",
+				"CardSerializers"
+			],
+			[
+				"seria",
+				"serializer_class"
+			],
+			[
+				"Lis",
+				"ListAPIView"
+			],
+			[
+				"M",
+				"ModelSerializer"
+			],
+			[
+				"reques",
+				"requestedMode"
+			],
+			[
+				"full",
+				"fullAccess"
+			],
+			[
+				"co",
+				"columns"
+			],
+			[
+				"ava",
+				"availableMode"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"table",
+				"tablesIndex"
+			],
+			[
+				"str",
+				"strForReplace"
+			],
+			[
+				"reqest",
+				"requestRole"
+			],
+			[
+				"end",
+				"endPosition"
+			],
+			[
+				"request",
+				"requestRole"
+			],
+			[
+				"requets",
+				"requestRole"
+			],
+			[
+				"nam",
+				"nameAttr"
+			],
+			[
+				"Role",
+				"Roles"
+			],
+			[
+				"acce",
+				"accessValue"
+			],
+			[
+				"acc",
+				"accessfunction"
+			],
+			[
+				"access",
+				"accessfunction"
+			],
+			[
+				"input",
+				"inputFunction"
+			],
+			[
+				"id",
+				"idEng"
+			],
+			[
+				"ui",
+				"ui-dialog"
+			],
+			[
+				"refres",
+				"refreshTable"
+			],
+			[
+				"tmp",
+				"tmpForm"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"ID",
+				"ID_Eng"
+			],
+			[
+				"master",
+				"mastertable"
+			],
+			[
+				"txt",
+				"txtFORM"
+			],
+			[
+				"rq",
+				"rqOrderMaterialID"
+			],
+			[
+				"Ma",
+				"MaterialID"
+			],
+			[
+				"ord",
+				"OrderMaterialID"
+			],
+			[
+				"last",
+				"LastID"
+			],
+			[
+				"req",
+				"requirementID"
+			],
+			[
+				"fil",
+				"filtredSQL"
+			],
+			[
+				"sql",
+				"sqlQuery"
+			],
+			[
+				"Data",
+				"DataTable"
+			],
+			[
+				"dt",
+				"dt_tmp"
+			],
+			[
+				"Da",
+				"DataTable"
+			],
+			[
+				"R",
+				"Rows"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"val",
+				"value-of"
+			],
+			[
+				"PO",
+				"POnumberID"
+			],
+			[
+				"action",
+				"actionLink"
+			],
+			[
+				"aja",
+				"ajaxRequest"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"ac",
+				"activeInactive"
+			],
+			[
+				"Sa",
+				"SaveDialog"
+			],
+			[
+				"sele",
+				"select"
+			],
+			[
+				"refre",
+				"refreshOptionInWorkElement"
+			],
+			[
+				"Se",
+				"SecondDialog"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"tyep",
+				"typeof"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"op",
+				"operationOnSecondDialog"
+			],
+			[
+				"acti",
+				"ActivityID"
+			],
+			[
+				"onClose",
+				"onCloseDialog"
+			],
+			[
+				"Then",
+				"THEN"
+			],
+			[
+				"he",
+				"heightDef"
+			],
+			[
+				"addVer",
+				"addVersion"
+			],
+			[
+				"yes",
+				"yesKey"
+			],
+			[
+				"butt",
+				"buttonsArrDef"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"curr",
+				"currentSQL"
+			],
+			[
+				"mod",
+				"ModifiedBy"
+			],
+			[
+				"js",
+				"jsString"
+			],
+			[
+				"Eng",
+				"Engineer"
+			],
+			[
+				"remove",
+				"removeAttr"
+			],
+			[
+				"Serv",
+				"ServieCatalogueDialog"
+			],
+			[
+				"us",
+				"unsupported"
+			],
+			[
+				"dialo",
+				"dialogHeight"
+			],
+			[
+				"ms",
+				"MsgObj"
+			],
+			[
+				"no",
+				"noSetPriceStatus"
+			],
+			[
+				"Est",
+				"EstimatedTotal"
+			],
+			[
+				"Base",
+				"BaselineTotal"
+			],
+			[
+				"Act",
+				"Activity"
+			],
+			[
+				"A",
+				"Activity"
+			],
+			[
+				"IF",
+				"If"
+			],
+			[
+				"rs",
+				"rs2"
+			],
+			[
+				"ini",
+				"initTabs"
+			],
+			[
+				"set",
+				"setActive"
+			],
+			[
+				"PL",
+				"PL"
+			],
+			[
+				"pric",
+				"priceInActive"
+			],
+			[
+				"price",
+				"priceActive"
+			],
+			[
+				"v",
+				"version"
+			],
+			[
+				"on",
+				"onBlock"
+			],
+			[
+				"dase",
+				"DataSetIni"
+			],
+			[
+				"if",
+				"if"
+			],
+			[
+				"fuc",
+				"function"
+			],
+			[
+				"sh",
+				"showDialog"
+			],
+			[
+				"In",
+				"InternalFunctions"
+			],
+			[
+				"Msg",
+				"MsgObj"
+			],
+			[
+				"Ms",
+				"MsgObj"
+			],
+			[
+				"is",
+				"isSuccess"
+			],
+			[
+				"ni",
+				"notifyObj"
+			],
+			[
+				"noti",
+				"notifyObj"
+			],
+			[
+				"not",
+				"notifyType"
+			],
+			[
+				"On",
+				"onBlock"
+			],
+			[
+				"addA",
+				"addActivity"
+			],
+			[
+				"def",
+				"defDialog"
+			],
+			[
+				"save",
+				"saveAddActivity"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "olgaWWW/app/views.py",
+			"settings":
+			{
+				"buffer_size": 2107,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "olgaWWW/olgaWWW/urls.py",
+			"settings":
+			{
+				"buffer_size": 469,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "from __future__ import unicode_literals\nfrom django.utils.encoding import python_2_unicode_compatible\nfrom django.db import models\nfrom django.db.models import Q\nfrom django.contrib.auth.models import User\n\n# Options\nSTATUS_BIT_ARTICLE = (\n\t(1, 'Active'),\n\t(0, 'In Active'),\n)\n\n# Queryset section\nclass ArticlesQuerySet(models.QuerySet):\n    def getAboutUs(self):\n        return self.filter(\n           ( Q(active=1) & Q(section_id=1) )\n        )\n    def getCosmetics(self):\n    \treturn self.filter(\n    \t\t( Q(active=1) & Q(section_id=2) )\n    \t)\n    def getCosmeticTreatment(self):\n    \treturn self.filter(\n    \t\t( Q(active=1) & Q(section_id=3) )\n    \t)\n\n    def getOffer(self):\n    \treturn self.filter(\n    \t\t( Q(active=1) & Q(section_id=4) )\n    \t)\n\n# Models\nclass Sites(models.Model):\n\ttabs=models.CharField(max_length=300, null=True,unique=True)\n\tcreateDate=models.DateTimeField(auto_now=True, blank=True)\n\tcreator=models.ForeignKey(User,related_name=\"sites_creator\",on_delete=models.CASCADE)\n\tdef __str__(self):\n\t\treturn str(self.tabs)\n\nclass Section(models.Model):\n\ttitle=models.CharField(max_length=255)\n\tcreateDate=models.DateTimeField(auto_now=True, blank=True)\n\tcreator=models.ForeignKey(User,related_name=\"section_creator\", on_delete=models.CASCADE)\n\tsites=models.ForeignKey(Sites, related_name=\"section_to_site\", on_delete=models.CASCADE)\n\tdef __str__(self):\n\t\treturn str(self.title)\n\nclass Articles(models.Model):\n\tcontent=models.TextField(max_length=10000)\n\tdescription=models.CharField(max_length=100)\n\tactive=models.BooleanField(default=True, choices=STATUS_BIT_ARTICLE)\n\tcreateDate=models.DateTimeField(auto_now=True)\n\tcreator=models.ForeignKey(User, related_name=\"article_creator\", on_delete=models.CASCADE)\n\tsection=models.ForeignKey(Section, related_name=\"article_to_section\", on_delete=models.CASCADE)\n\n\tobjects = ArticlesQuerySet.as_manager()\n\n\tdef __str__(self):\n\t\treturn str(self.content)\n\nclass Price(models.Model):\n\tservice=models.CharField(max_length=200)\n\tprice=models.DecimalField(max_digits=6, decimal_places=2, blank=True, null=True)\n\tdef __str__(self):\n\t\treturn str(self.service)\n\nclass Contact(models.Model):\n\tname=models.CharField(max_length=100)\n\temail=models.CharField(max_length=50)\n\tphone=models.CharField(max_length=20)\n\tmessage=models.CharField(max_length=1000)\n",
+			"file": "olgaWWW/app/models.py",
+			"file_size": 2179,
+			"file_write_time": 131847703506201555,
+			"settings":
+			{
+				"buffer_size": 2303,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "/*\n\tPlugin for jQuery\n\n \tShow and hide message notification and return object.\n\n\tConditions for correct operation:\n\t1. Include css   : template/standard/css/messages.css\n\t2. Exist in html : <div id=\"message\" class=\"message message-hidden\" style=\"text-align: center;\"></div>\n\n\tMethod in parameter get JSON with literal:\n\tUSAGE:\n\t\tvar settings = {\n\t\t\tmode   : \"success\", // warning, success, error, success\n\t\t\tmessage: \"This a message text!\",\n\t\t\tisClearMessage :\t1\n\t\t}\n\n\t\t$( \"#message\" ).customDivMessage( settings );\n*/\n\n( function( $ ) {\n\tvar className = {\n\t\t\"success\" : \"message-success\",\n\t\t\"warning\" : \"message-warning\",\n\t\t\"error\"   : \"message-error\",\n\t\t\"info\"\t  : \"message-info\",\n\t\t\"hidden\"  : \"message-hidden\"\n\t}\n\tvar showMessageBox = function(  settings ) {\n\t\tvar newClass;\n\t\t$(settings.container).removeClass( className.hidden );\n\t\t$(settings.container).show();\n\t\tclearMessageBox(  );\n\n\t\tswitch  ( settings.mode ) {\n\t\t\tcase \"success\":\n\t\t\t\tnewClass = className.success;\n\t\t\t\tbreak;\n\t\t\tcase \"warning\":\n\t\t\t\tnewClass = className.warning;\n\t\t\t\tbreak;\n\t\t\tcase \"error\":\n\t\t\t\tnewClass = className.error;\n\t\t\t\tbreak;\n\t\t\tcase \"info\":\n\t\t\t\tnewClass = className.info;\n\t\t\t\tbreak;\n\t\t\tdefault:\n\t\t\t\tnewClass = className.info;\n\t\t}\n\n\t\t$( settings.container ).addClass( newClass ).html( settings.message );\n\t}\n\n\t// Function clear notification and hide container\n\tvar clearMessageBox = function(  settings ) {\n\t\t$(settings.container).removeClass( className.success )\n\t\t\t.removeClass( className.warning )\n\t\t\t.removeClass( className.error )\n\t\t\t.removeClass( className.info )\n\t\t\t.addClass( className.hidden )\n\t\t\t.html( \"\" );\n\t}\n\n\t$.fn.customDivMessage = function( custom ) {\n\t\tvar settings = $.extend({\n\t\t\tmode : \"\",\n\t\t\tmessage : \"\",\n\t\t\tisClearMessage : 1,\n\t\t\tcontainer : this\n\t\t\t}, custom);\n\n\t\tif ( settings.isClearMessage ) {\n\t\t\tclearMessageBox( settings );\n\t\t} else {\n\t\t\tshowMessageBox( settings );\n\t\t}\n\n\t\treturn settings.container;\n\t}\n}) ( jQuery );",
+			"file": "/W/js/jqPlugin/jQueryPluginMessage.js",
+			"file_size": 2029,
+			"file_write_time": 131629944662786290,
+			"settings":
+			{
+				"buffer_size": 1931,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/W/modules/MocOrders/VM_MDS/ServiceCatalogue/html/price.html",
+			"settings":
+			{
+				"buffer_size": 3921,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "olgaWWW/app/tests.py",
+			"settings":
+			{
+				"buffer_size": 60,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "olgaWWW/app/templates/contact/contact.html",
+			"settings":
+			{
+				"buffer_size": 227,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "conntact.html"
+			}
+		},
+		{
+			"file": "olgaWWW/app/templates/layouts/base.html",
+			"settings":
+			{
+				"buffer_size": 3443,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "olgaWWW/app/templates/registrationOnLine/online.html",
+			"settings":
+			{
+				"buffer_size": 226,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "olgaWWW/app/admin.py",
+			"settings":
+			{
+				"buffer_size": 746,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"",
+				"Build: New Build System"
+			],
+			[
+				"new ",
+				"File: New View into File"
+			],
+			[
+				"syn css",
+				"Set Syntax: CSS"
+			],
+			[
+				"new",
+				"Tasks: New document"
+			],
+			[
+				"synt js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn aps",
+				"Set Syntax: ASP"
+			],
+			[
+				"syn js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"doc",
+				"Tasks: New document"
+			],
+			[
+				"syn re",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"synxml",
+				"Set Syntax: XML"
+			],
+			[
+				"syn xml",
+				"Set Syntax: XML"
+			],
+			[
+				"sy xml",
+				"Set Syntax: XML"
+			],
+			[
+				"newe",
+				"Tasks: New document"
+			],
+			[
+				"his",
+				"Local History: Browse"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"syn sq",
+				"Set Syntax: SQL (Rails)"
+			],
+			[
+				"xml ",
+				"Set Syntax: XML"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sy",
+				"Set Syntax: SQL"
+			],
+			[
+				"syn py",
+				"Set Syntax: Python"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"Snippet: js",
+				"Snippet: Object Value JS"
+			],
+			[
+				"syn sql",
+				"Set Syntax: SQL (Rails)"
+			],
+			[
+				"sy sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"syn asp",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"syn sql ",
+				"Set Syntax: SQL"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL (Rails)"
+			],
+			[
+				"synsql",
+				"Set Syntax: SQL"
+			],
+			[
+				"sql ",
+				"Set Syntax: SQL (Rails)"
+			],
+			[
+				"syn x",
+				"Set Syntax: XML"
+			],
+			[
+				"syntasql",
+				"Set Syntax: SQL (Rails)"
+			],
+			[
+				"synre",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"sy ",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"hia",
+				"Local History: Compare"
+			],
+			[
+				"syxml",
+				"Set Syntax: XML"
+			],
+			[
+				"DOC",
+				"Tasks: New document"
+			],
+			[
+				"syn ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			],
+			[
+				"syn java s",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sy ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn c#",
+				"Set Syntax: C#"
+			],
+			[
+				"sy c#",
+				"Set Syntax: C#"
+			],
+			[
+				"synt html",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"synta c",
+				"Set Syntax: C#"
+			],
+			[
+				"new do",
+				"Tasks: New document"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"asp",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"sy asp",
+				"Set Syntax: ASP"
+			],
+			[
+				"syn vb",
+				"Set Syntax: Objective-C++"
+			],
+			[
+				"todo",
+				"Set Syntax: Rd (R Documentation)"
+			],
+			[
+				"syt xml",
+				"Set Syntax: XML"
+			],
+			[
+				"synta xml",
+				"Set Syntax: XML"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			],
+			[
+				"install pa",
+				"Install Package Control"
+			],
+			[
+				"sytax",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			],
+			[
+				"syntax bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syntax asp c",
+				"Set Syntax: ActionScript"
+			],
+			[
+				"syntax vb",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"syntax ",
+				"Set Syntax: ASP"
+			],
+			[
+				"hist",
+				"Local History: Browse"
+			],
+			[
+				"syn",
+				"Set Syntax: SQL"
+			],
+			[
+				"doc ",
+				"Tasks: New document"
+			],
+			[
+				"syta js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"documen",
+				"Tasks: New document"
+			],
+			[
+				"sytax js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax xml",
+				"Set Syntax: XML"
+			],
+			[
+				"xsl",
+				"Set Syntax: SQL"
+			],
+			[
+				"syntax x",
+				"Set Syntax: XML"
+			],
+			[
+				"sy j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"syntax j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pag",
+				"Package Control: Install Package"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"hi",
+				"TFS: History"
+			],
+			[
+				"docu",
+				"Tasks: New document"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lo",
+				"Local History: Open"
+			],
+			[
+				"t",
+				"TFS: History"
+			],
+			[
+				"task ",
+				"Tasks: New document"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"mds",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 114.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/dbolewsk/Documents/Django Projects/olga/olga/olgaWWW/olgaWWW/app/templates/offer/offer.html",
+		"/C/Users/dbolewsk/Documents/Django Projects/olga/olga/olgaWWW/olgaWWW/app/templates/pricing/pricing.html",
+		"/C/Users/dbolewsk/Documents/Django Projects/olga/olga/olgaWWW/olgaWWW/app/urls.py",
+		"/C/Users/dbolewsk/Documents/Django Projects/olga/olga/olgaWWW/olgaWWW/app/templates/layouts/base.html",
+		"/C/Users/dbolewsk/Documents/Django Projects/olga/olga/olgaWWW/olgaWWW/app/templates/home/aboutUs.html",
+		"/C/Users/dbolewsk/Documents/Django Projects/olga/olga/olgaWWW/olgaWWW/app/templates/home/cosmetics.html",
+		"/C/Users/dbolewsk/Documents/Django Projects/olga/olga/olgaWWW/olgaWWW/app/templates/home/cosmeticTreatment.html",
+		"/C/Users/dbolewsk/Documents/Django Projects/olga/olga/olgaWWW/olgaWWW/app/models.py",
+		"/C/Users/dbolewsk/Documents/Django Projects/olga/olga/olgaWWW/olgaWWW/app/static/css/site/site.css",
+		"/C/Users/dbolewsk/Documents/Django Projects/olga/olga/olgaWWW/olgaWWW/app/migrations/0001_initial.py",
+		"/C/Users/dbolewsk/Documents/Django Projects/olga/olga/olgaWWW/olgaWWW/db.sqlite3",
+		"/C/Users/dbolewsk/Documents/Django Projects/olga/olga/olgaWWW/olgaWWW/app/migrations/__init__.py",
+		"/C/Users/dbolewsk/Documents/Django Projects/olga/olga/olgaWWW/olgaWWW/app/migrations/0003_auto_20181022_0845.py",
+		"/C/Users/dbolewsk/Documents/Django Projects/olga/olga/olgaWWW/olgaWWW/app/migrations/0004_auto_20181022_0850.py",
+		"/C/Users/dbolewsk/Documents/Django Projects/olga/olga/olgaWWW/olgaWWW/app/migrations/0008_sites_createdate.py",
+		"/C/Users/dbolewsk/Documents/Django Projects/olga/olga/olgaWWW/olgaWWW/app/templates/home/index.html",
+		"/C/Users/dbolewsk/Documents/Django Projects/olga/olga/olgaWWW/olgaWWW/olgaWWW/urls.py",
+		"/C/Users/dbolewsk/Documents/Django Projects/olga/olga/olgaWWW/olgaWWW/olgaWWW/settings.py",
+		"/C/Users/dbolewsk/Documents/Django Projects/olga/olga/olgaWWW/olgaWWW/app/views.py",
+		"/C/Users/dbolewsk/djan/djan/scrumboard/templates/scrumboard/base.html",
+		"/C/Users/dbolewsk/djan/djan/scrumboard/templates/scrumboard/home.html",
+		"/C/Users/dbolewsk/djan/djan/djan/urls.py",
+		"/C/Users/dbolewsk/djan/djan/scrumboard/urls.py",
+		"/C/Users/dbolewsk/djan/djan/djan/settings.py",
+		"/C/Users/dbolewsk/djan/djan/scrumboard/api.py",
+		"/C/Users/dbolewsk/djan/djan/scrumboard/serializers.py",
+		"/C/Users/dbolewsk/djan/djan/scrumboard/admin.py",
+		"/C/Users/dbolewsk/djan/djan/scrumboard/models.py",
+		"/C/Users/dbolewsk/Downloads/jquery-ui-1.12.1.custom/external/jquery/jquery.js",
+		"/C/Users/dbolewsk/Downloads/jquery-ui-1.12.1.custom/index.html",
+		"/C/Users/dbolewsk/djan/djan/scrumboard/static/scrumboard/scrumboard.js",
+		"/C/Users/dbolewsk/djan/djan/scrumboard/templates/scrumboard/angular.html",
+		"/C/Users/dbolewsk/Downloads/jquery-ui-1.12.1.custom/jquery-ui.js",
+		"/Z/modules/ResourceManagement/xml/RES_Engineers.xml",
+		"/W/modules/Administration/xml/V_Co_Engineers_Info.xsl",
+		"/W/modules/Administration/xml/V_Co_Engineers_Info.xml",
+		"/W/modules/Administration/html/cpadmin.html",
+		"/W/modules/CalendarPlanning/js/calendar.js",
+		"/W/modules/MocOrders/VM_MDS/ServiceCatalogue/js/serviceCatalogue.js",
+		"/W/modules/Administration/cpadmin.asp",
+		"/W/cpadmin.asp",
+		"/W/modules/PersonnelAccessControlTool/view/PACT_ProjectSecurityAccess.xml",
+		"/W/modules/PersonnelAccessControlTool/PACT_Functions.asp",
+		"/W/pact.asp",
+		"/W/modules/MocOrders/VM_MDS/xml/Validation/MDS_Edit.xsl",
+		"/W/db_opisy_CR_ow/CR 677.todo",
+		"/W/modules/MocOrders/VM_MDS/xml/Validation/Activities_Edit.xsl",
+		"/W/modules/MocOrders/VM_MDS/xml/Activities.xml",
+		"/W/chlist/xml/chl_MDS/xml/SiteActivity/MDS_Support_Activity_CDE.xsl",
+		"/W/modules/MocOrders/VM_MDS/ajax.asp",
+		"/W/moc_vm_mds.asp",
+		"/W/modules/MocOrders/VM_MDS/functions.asp",
+		"/W/modules/MocOrders/VM_MDS/js/Activities_Edit.js",
+		"/W/modules/PersonnelAccessControlTool/js/PACT_Functions.js",
+		"/W/db_opisy_CR_ow/CR 720 MDS.todo",
+		"/W/modules/WFM Engine/xml/Activities.xml",
+		"/W/modules/PersonnelAccessControlTool/view/PACT_REP_Custom.xml",
+		"/W/modules/PersonnelAccessControlTool/view/PACT_REP_Custom.xsl",
+		"/W/xml/MainMenu.xml",
+		"/C/Users/dbolewsk/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/dbolewsk/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/W/db_opisy_CR_ow/CR 820.todo",
+		"/W/modules/PersonnelAccessControlTool/html/PACT_KPN_Reports.html",
+		"/W/modules/MocOrders/VM_MDS/save.asp",
+		"/W/modules/PersonnelAccessControlTool/view/PACT_EngineersSearch.xsl",
+		"/W/modules/PersonnelAccessControlTool/view/PACT_EngineersSearch.xml",
+		"/W/modules/PersonnelAccessControlTool/view/PACT_EngineersAddEdit.xsl",
+		"/W/js/capacity.js",
+		"/W/modules/PersonnelAccessControlTool/view/PACT_EngineersAddEdit.xml",
+		"/W/modules/PersonnelAccessControlTool/css/PACT_Styles.css",
+		"/W/modules/PersonnelAccessControlTool/css/PACT_Styles.scss",
+		"/W/.sass-cache/07c175dda23ca0e97c1df2c288a903732c2fd41e/serviceCatalogue.scssc",
+		"/W/modules/PersonnelAccessControlTool/view/PACT_UserCompanyInfo.xml",
+		"/W/modules/Administration/js/cpform_engineers.js",
+		"/W/modules/PersonnelAccessControlTool/view/PACT_EngineersSearchQuery.xml",
+		"/W/modules/PersonnelAccessControlTool/view/PACT_UserCompanyRequirement.xml",
+		"/W/modules/PersonnelAccessControlTool/view/PACT_EngineerAddEdit.xml",
+		"/W/modules/PersonnelAccessControlTool/html/PACT_SearchLayoutBasic.html",
+		"/W/modules/IRM/functions.asp",
+		"/W/modules/IRM/js/global.js",
+		"/W/irm.asp",
+		"/W/modules/IRM/js/search.js",
+		"/W/modules/FastTracking/js/PACT_Functions.js",
+		"/W/include/results.asp",
+		"/W/modules/PersonnelAccessControlTool/view/PACT_ProjectSecurityAddTable.xml",
+		"/W/modules/PersonnelAccessControlTool/view/PACT_ProjectSecurityAccess.xsl",
+		"/W/include/mainpage_generate.asp",
+		"/W/modules/PersonnelAccessControlTool/view/PACT_UserCompanyInfoVettingType.xml",
+		"/W/modules/PersonnelAccessControlTool/view/PACT_UserCompanyInfoSearch.xml",
+		"/W/modules/PersonnelAccessControlTool/view/PACT_UserCompanyInfoSearch.xsl",
+		"/W/modules/PersonnelAccessControlTool/view/PACT_UserCompanyInfo.xsl",
+		"/W/modules/IRM/save.asp",
+		"/W/db_opisy_CR_ow/CR 747.todo",
+		"/W/db_opisy_CR_ow/CR 746 IRM.todo",
+		"/W/template/standard/grid_main_page.html",
+		"/W/mainframe.html",
+		"/W/tsqs/template/standard/css/standard.css",
+		"/W/index.asp",
+		"/W/modules/MyProject/cpproj.asp",
+		"/W/include/inc_tabulator.asp",
+		"/W/cpproj.asp",
+		"/W/xml/CP_Task.xml",
+		"/W/xml/CP_Task_Edit_Poland.xsl",
+		"/W/xml/CP_Task_Edit.xsl",
+		"/W/xml/CP_Task_Edit_Engineer.xsl",
+		"/W/modules/MyProject/xml/CP_Task.xsl",
+		"/W/modules/MyProject/xml/CP_Task_Edit.xsl",
+		"/W/modules/MyProject/xml/CP_Task.xml",
+		"/W/modules/MyProject/js/functions.js",
+		"/W/cpproj_search.asp",
+		"/W/modules/MyProject/xml/backup/CP_Task_Edit.xsl",
+		"/W/modules/MyProject/xml/CP_Project.xsl",
+		"/W/modules/ManageProject/xml/CP_Project_Templates.xsl",
+		"/W/cpproj_view.asp",
+		"/W/pg_rep.asp",
+		"/W/modules/ProjectGovernance/html/forecastUpdateAll.html",
+		"/W/modules/ProjectGovernance/projectGovernance.asp",
+		"/W/modules/ProjectGovernance/class/upload.cs",
+		"/W/include/cs/upload.cs",
+		"/W/modules/ProjectGovernance/forecastUploaderAll.aspx",
+		"/W/include/ms_table_cls.asp",
+		"/W/include/config.asp",
+		"/W/modules/IRM/xml/Orders.xsl",
+		"/W/modules/IRM/js/functions.js",
+		"/W/modules/IRM/dotestu.asp",
+		"/W/modules/IRM/afterSaveCountingQty.asp",
+		"/W/modules/ResourceManagement/res_getUserFromAD.asp",
+		"/W/include/DB_SaveForms2.asp"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 249.0,
+		"where_history":
+		[
+			"W:\\db_opisy_CR_ow",
+			"W:\\modules\\Administration\\js",
+			"W:\\modules\\IRM\\js",
+			"W:\\modules\\PersonnelAccessControlTool",
+			"W:\\modules\\MyProject",
+			"W:\\modules\\IRM",
+			"W:\\modules\\IRM\\js",
+			"W:\\\\modules\\IRM",
+			"W:\\\\modules\\Financial",
+			"W:\\modules\\IRM",
+			"W:\\modules\\IRM\\js",
+			"W:\\modules\\IRM",
+			"W:\\chlist\\xml\\chl_MDS\\js",
+			"W:\\modules\\CustomReport",
+			"W:\\chlist\\xml\\chl_MDS",
+			"W:\\chlist\\js",
+			"W:\\modules\\MocOrders\\VM_MDS,W:\\chlist",
+			"W:\\modules\\MocOrders\\VM_MDS",
+			"W:\\modules\\Financial",
+			"W:\\modules\\Financial\\js",
+			"W:\\modules\\MocOrders\\VM_MDS\\xml\\serviceCatalogue",
+			"W:\\modules\\CalendarPlanning\\xml",
+			"W:\\modules\\MocOrders\\VM_MDS\\js",
+			"W:\\modules\\MocOrders\\VM_MDS",
+			"W:\\modules\\MocOrders\\VM_MDS\\js",
+			"W:\\modules\\CalendarPlanning",
+			"W:\\modules\\MocOrders\\VM_MDS",
+			"W:\\modules\\MocOrders\\VM_MDS\\html",
+			"W:\\modules\\CustomReport\\js",
+			"W:\\modules\\CalendarPlanning",
+			"W:",
+			"W:\\modules\\CalendarPlanning",
+			"W:\\modules",
+			"W:\\modules\\CalendarPlanning",
+			"W:\\modules\\MocOrders\\VM_MDS",
+			"W:\\modules\\CalendarPlanning",
+			"W:\\",
+			"W:\\modules\\CalendarPlanning\\xml",
+			"W:\\modules\\CalendarPlanning",
+			"W:\\modules\\CalendarPlanning\\xml",
+			"W:\\modules\\CalendarPlanning",
+			"W:\\js\\jquery-1.7.1.min.js, W:\\js\\jquery-ui-1.8.24.custom.min.js, W:\\js\\jquery-ui-timepicker-addon.min.js, W:\\js\\jqModal\\jqModal.js, W:\\js\\tab-view.js, W:\\js\\advajax.js, W:\\js\\ms_utilities_function.js, W:\\js\\jqBlockUI\\jquery.blockUI.js, W:\\js\\popupfunction.js, W:\\js\\table_inc.js, W:\\js\\form_new.min.js, W:\\js\\capacity.js, W:\\modules\\CalendarPlanning\\js\\calendar.js, W:\\js\\jqBlockUI\\jquery.blockUI.js, W:\\js\\jqValidate\\jquery.validate_1.13.1.js, W:\\js\\jqPlugin\\jQueryPluginMessage.js,",
+			"W:\\include\\config.asp, W:\\include\\template_cls.asp, W:\\include\\setEngineersSession.asp, W:\\include\\xml_function_inc.asp, W:\\include\\date_convert_inc.asp, W:\\modules\\TimeWriting/include/date_inc.asp, W:\\include\\function_proc.asp, W:\\include\\inc_tabulator.asp, W:\\include\\table_inc.asp, W:\\include\\grid_inc.asp, W:\\include\\VB2JSarray.inc, W:\\include\\inc_TableCapaCity.asp, W:\\include\\mainpage_generate.asp, W:\\include\\search.asp, W:\\include\\ms_table_cls.asp, W:\\include\\ms_form_cls.asp, W:\\include\\JSON_2.0.4.asp, W:\\include\\JSON_UTIL_0.1.1.asp, W:\\modules\\CalendarPlanning/cpproj_calendar_plan.asp",
+			"W:\\include\\config.asp; W:\\include\\template_cls.asp; W:\\include\\setEngineersSession.asp; W:\\include\\xml_function_inc.asp; W:\\include\\date_convert_inc.asp; W:\\modules\\TimeWriting/include/date_inc.asp; W:\\include\\function_proc.asp; W:\\include\\inc_tabulator.asp; W:\\include\\table_inc.asp; W:\\include\\grid_inc.asp; W:\\include\\VB2JSarray.inc; W:\\include\\inc_TableCapaCity.asp; W:\\include\\mainpage_generate.asp; W:\\include\\search.asp; W:\\include\\ms_table_cls.asp; W:\\include\\ms_form_cls.asp; W:\\include\\JSON_2.0.4.asp; W:\\include\\JSON_UTIL_0.1.1.asp; W:\\modules\\CalendarPlanning/cpproj_calendar_plan.asp;",
+			"W:\\include\\config.asp;\nW:\\include\\template_cls.asp;\nW:\\include\\setEngineersSession.asp;\nW:\\include\\xml_function_inc.asp;\nW:\\include\\date_convert_inc.asp;\nW:\\modules\\TimeWriting/include/date_inc.asp;\nW:\\include\\function_proc.asp;\nW:\\include\\inc_tabulator.asp;\nW:\\include\\table_inc.asp;\nW:\\include\\grid_inc.asp;\nW:\\include\\VB2JSarray.inc;\nW:\\include\\inc_TableCapaCity.asp;\nW:\\include\\mainpage_generate.asp;\nW:\\include\\search.asp;\nW:\\include\\ms_table_cls.asp;\nW:\\include\\ms_form_cls.asp;\nW:\\include\\JSON_2.0.4.asp;\nW:\\include\\JSON_UTIL_0.1.1.asp;\nW:\\modules\\CalendarPlanning/cpproj_calendar_plan.asp;",
+			"W:\\modules\\CalendarPlanning",
+			"W:\\include",
+			"W:\\modules\\CalendarPlanning",
+			"W:\\modules\\TimeWriting\\js",
+			"W:\\chlist\\xml\\chl_MDS",
+			"W:\\modules\\MocOrders\\VM_MDS",
+			"W:\\modules\\MocOrders\\VM_MDS\\js",
+			"W:\\chlist\\xml\\chl_MDS\\xml",
+			"W:\\chlist\\xml\\chl_MDS",
+			"W:\\modules\\MocOrders\\VM_MDS",
+			"W:\\modules\\CustomReport\\xml",
+			"W:\\",
+			"W:\\modules\\ProjectGovernance",
+			"W:",
+			"W:\\modules\\ProjectGovernance",
+			"W:\\modules\\PersonnelAccessControlTool",
+			"W:\\modules\\ProjectGovernance\\xml",
+			"W:\\modules\\ProjectGovernance\\js",
+			"W:\\modules\\ResourceManagement\\js",
+			"W:\\modules\\ResourceManagement",
+			"W:\\modules\\ResourceManagement\\js",
+			"W:\\modules\\MocOrders\\VM_MDS",
+			"W:\\chlist\\xml\\chl_MDS",
+			"W:\\chlist",
+			"W:\\modules\\ResourceManagement\\js",
+			"W:\\modules\\ResourceManagement",
+			"W:\\modules\\ResourceManagement\\js",
+			"W:\\modules\\ResourceManagement",
+			"W:\\modules\\ResourceManagement\\js",
+			"W:\\modules\\PersonnelAccessControlTool",
+			"W:\\modules\\PersonnelAccessControlTool\\html",
+			"W:",
+			"W:\\modules\\CCT",
+			"W:\\",
+			"W:\\modules\\CCT\\CCTuploads",
+			"W:\\modules\\ProjectGovernance",
+			"W:\\modules\\CCT",
+			"W:\\modules",
+			"W:\\modules\\Financial",
+			"W:\\modules\\CCT",
+			"W:\\modules\\MocOrders\\VM_MDS\\xml",
+			"W:\\modules\\CCT\\xml",
+			"W:\\modules\\MocOrders\\VM_MDS",
+			"W:\\modules\\MocOrders\\VM_MDS\\js",
+			"W:\\modules",
+			"W:\\modules\\MocOrders\\VM_MDS",
+			"W:\\",
+			"W:\\modules",
+			"W:\\modules\\ResourceManagement\\js",
+			"W:\\modules",
+			"S:\\modules",
+			"S:\\chlist\\xml\\chl_MDS\\js",
+			"S:\\modules\\ProjectGovernance\\js",
+			"S:\\modules\\MyProject\\js",
+			"S:\\chlist\\xml\\chl_MDS\\js",
+			"S:\\modules\\MocOrders\\VM_MDS\\js",
+			"S:\\modules\\MocOrders\\VM_MDS",
+			"S:\\chlist\\xml\\chl_MDS\\js",
+			"S:\\modules\\MocOrders\\VM_MDS\\js",
+			"S:\\modules",
+			"S:",
+			"S:\\modules",
+			"S:\\modules\\MocOrders\\CenturyLink2\\view",
+			"S:\\modules\\Assets\\xml",
+			"S:\\modules",
+			"S:\\modules\\ResourceManagement",
+			"S:\\modules\\IRM",
+			"S:\\",
+			"S:\\modules\\LawsonConnection",
+			"S:\\modules",
+			"S:\\upload",
+			"S:\\",
+			"S:\\chlist\\xml\\chl_MDS",
+			"S:\\",
+			"S:\\chlist\\xml\\chl_MDS",
+			"S:\\modules\\",
+			"S:\\modules\\MocOrders\\VM_MDS",
+			"S:\\modules\\LawsonConnection",
+			"S:\\modules\\IRM\\js",
+			"S:",
+			"S:\\modules\\MocOrders\\VM_MDS",
+			"S:",
+			"S:\\modules\\CCT"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"3",
+			"static",
+			"content",
+			"DateTimeFiled",
+			"app/loginpartial.html",
+			"pills-tabContent",
+			"pills-tab",
+			"pills-tabContent",
+			"white",
+			".nav-pills ",
+			".nav-pills > .active > a, .nav-pills > .active > a:hover",
+			".nav-pills > .active > a, .nav-pills > .active > a:hover {\n    background-color: red;\n}",
+			".center-pills",
+			"jpg",
+			"carouselExampleIndicators",
+			"%}\" ",
+			"nav",
+			".navbar-light .navbar-toggler-icon",
+			"background",
+			"\n\t\t\t",
+			"footer",
+			"customReportCustomSearchResults",
+			"projectSecurityAccess",
+			"ProjectSecurityAccess",
+			"projectSecurityAccess",
+			"projectSecurityAccessTable",
+			"projectSecurityAccess",
+			"ProjectSecurityAccess",
+			"projectSecurityAccess",
+			"projectSecurityAccessTable",
+			"cde for",
+			"cdefor",
+			"typeOfWorkOnChange",
+			"typeof",
+			"edit_Validation_Act",
+			"CEIsAssignable",
+			"Type of work",
+			"[Type of work]",
+			"[MDS_VM_FRM_Activities].[Type of work]",
+			"4",
+			"view",
+			"Info",
+			"info",
+			"report",
+			"REPORT",
+			"report",
+			"userCompanyInfo",
+			"isCorrectMode",
+			"showUserForm",
+			"loadUserCompanyInfoTab",
+			"rw",
+			"PACT_generateForm",
+			"loadUserCompanyInfoTab",
+			"companyinfo",
+			"userCompanyInfo",
+			"UserCompanyInfo",
+			"userCompanyInfo",
+			"UserCompanyInfo",
+			"userCompanyInfo",
+			"UserCompanyInfo",
+			"userCompanyInfo",
+			"UserCompanyInfo",
+			"userCompanyInfo",
+			"getAccessibleUsers",
+			"users",
+			"usersSearch",
+			"users",
+			"projectSecurityAccess",
+			"projectSecurityAccessTable",
+			"ProjectSecurityAccess",
+			"projectSecurityAccess",
+			"ProjectSecurityAccess",
+			"projectSecurityAccess",
+			"projectSecurityAccessTable",
+			"Resources Management",
+			"reso",
+			"resource mana",
+			"pact",
+			"NGLMTN0324-FP-A016000",
+			"PACT_FormRoleMultiToSingleRole",
+			"roleRrequest",
+			"requestRole",
+			"PACT_FormRoleToSingleRole",
+			"PACT_FormRolesToSingleRole",
+			"PACT_CustomReportSearchResults",
+			"j=1",
+			"multi",
+			"PACT_FormRolesToSingleRole",
+			"role",
+			"rw",
+			"Role",
+			"customReportCustomSearchResults",
+			"customReport",
+			"reports",
+			"PACT_EngineersSearchQuery",
+			"updateAccessEngineer",
+			"engineer",
+			"Enginner",
+			"enginner",
+			"siteSurveyChecker",
+			"addEngineer",
+			"updateAccessEngineer",
+			"UpdateAccessEngineerAjax",
+			"upiFormat",
+			"console",
+			"sinputui",
+			"PACT_getEngNoPact",
+			"getEngData",
+			"PACT_updateEngineerAccess",
+			"UpdateAccessEngineer",
+			"updateAccessEngineer",
+			"onBlock",
+			"OnBlock",
+			"onBlock",
+			"OnBlock",
+			"onBlock",
+			"OnBlock",
+			"onBlock",
+			"OnBlock",
+			"onBlock",
+			"block",
+			"PACT_getTableDblClickAction",
+			"getdata",
+			"url",
+			"UpdateEngineerAccess",
+			"cap.get",
+			"cap",
+			"cao"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ServiceCatalogue",
+			"serviceCatalogue",
+			"PACT"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\dbolewsk\\Documents\\Django Projects\\olga"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "olgaWWW/app/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1397,
+								1397
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "olgaWWW/olgaWWW/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								274
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "olgaWWW/app/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2303,
+								2303
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 675.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/W/js/jqPlugin/jQueryPluginMessage.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1711,
+								1711
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/W/modules/MocOrders/VM_MDS/ServiceCatalogue/html/price.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "olgaWWW/app/tests.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 60,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "olgaWWW/app/templates/contact/contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								212,
+								212
+							]
+						],
+						"settings":
+						{
+							"auto_name": "conntact.html",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "olgaWWW/app/templates/layouts/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3443,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1545,
+								1545
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "olgaWWW/app/templates/registrationOnLine/online.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								211,
+								211
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 9,
+					"file": "olgaWWW/app/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								436,
+								436
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.864705882353,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 449.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"PACT_ProjectSecurityAccess",
+				"modules\\PersonnelAccessControlTool\\view\\PACT_ProjectSecurityAccess.xml"
+			],
+			[
+				"chlist/xml/chl_MDS/xml/SiteActivity/MDS_Support_Activity_CDE.xsl",
+				"chlist\\xml\\chl_MDS\\xml\\SiteActivity\\MDS_Support_Activity_CDE.xsl"
+			],
+			[
+				"moc_vm_mds.asp",
+				"moc_vm_mds.asp"
+			],
+			[
+				"modules/MocOrders/VM_MDS/ajax.asp",
+				"modules\\MocOrders\\VM_MDS\\ajax.asp"
+			],
+			[
+				"modules\\MocOrders\\VM_MDS\\js\\Activities_Edit.js",
+				"modules\\MocOrders\\VM_MDS\\js\\Activities_Edit.js"
+			],
+			[
+				"xml/Activities.xml",
+				"modules\\WFM Engine\\xml\\Activities.xml"
+			],
+			[
+				"mds save.asp",
+				"modules\\MocOrders\\VM_MDS\\save.asp"
+			],
+			[
+				"capa",
+				"js\\capacity.js"
+			],
+			[
+				"service cata",
+				"modules\\MocOrders\\VM_MDS\\ServiceCatalogue\\js\\serviceCatalogue.js"
+			],
+			[
+				"service ",
+				"modules\\MocOrders\\VM_MDS\\ServiceCatalogue\\js\\serviceCatalogue.js"
+			],
+			[
+				"service \\",
+				".sass-cache\\07c175dda23ca0e97c1df2c288a903732c2fd41e\\serviceCatalogue.scssc"
+			],
+			[
+				"calendar.js",
+				"modules\\CalendarPlanning\\js\\calendar.js"
+			],
+			[
+				"serviccata",
+				"modules\\MocOrders\\VM_MDS\\ServiceCatalogue\\js\\serviceCatalogue.js"
+			],
+			[
+				"view\\PACT_UserCompanyInfo.xml",
+				"modules\\PersonnelAccessControlTool\\view\\PACT_UserCompanyInfo.xml"
+			],
+			[
+				"PACT_UserCompanyRequirement",
+				"modules\\PersonnelAccessControlTool\\view\\PACT_UserCompanyRequirement.xml"
+			],
+			[
+				"PACT_UserCompanyRequirement.xml",
+				"modules\\PersonnelAccessControlTool\\view\\PACT_UserCompanyRequirement.xml"
+			],
+			[
+				"/html/cpadmin.html",
+				"modules\\Administration\\html\\cpadmin.html"
+			],
+			[
+				"cpadmin.asp",
+				"cpadmin.asp"
+			],
+			[
+				"irm.asp",
+				"irm.asp"
+			],
+			[
+				"pact function js",
+				"modules\\FastTracking\\js\\PACT_Functions.js"
+			],
+			[
+				"main menu",
+				"xml\\MainMenu.xml"
+			],
+			[
+				"PACT_Functions.js",
+				"modules\\FastTracking\\js\\PACT_Functions.js"
+			],
+			[
+				"irm functions.asp",
+				"modules\\IRM\\functions.asp"
+			],
+			[
+				"PACT_ProjectSecurityAddTable",
+				"modules\\PersonnelAccessControlTool\\view\\PACT_ProjectSecurityAddTable.xml"
+			],
+			[
+				"PACT_ProjectSecurityAccess.xml",
+				"modules\\PersonnelAccessControlTool\\view\\PACT_ProjectSecurityAccess.xml"
+			],
+			[
+				"pact.asp",
+				"pact.asp"
+			],
+			[
+				"include/result",
+				"include\\results.asp"
+			],
+			[
+				"view\\PACT_REP_Custom.x",
+				"modules\\PersonnelAccessControlTool\\view\\PACT_REP_Custom.xsl"
+			],
+			[
+				"view\\PACT_REP_Custom.xml",
+				"modules\\PersonnelAccessControlTool\\view\\PACT_REP_Custom.xml"
+			],
+			[
+				"PACT_UserCompanyInfoVettingType.xml",
+				"modules\\PersonnelAccessControlTool\\view\\PACT_UserCompanyInfoVettingType.xml"
+			],
+			[
+				"modules\\PersonnelAccessControlTool\\view\\PACT_UserCompanyInfoSearch",
+				"modules\\PersonnelAccessControlTool\\view\\PACT_UserCompanyInfoSearch.xsl"
+			],
+			[
+				"modules\\PersonnelAccessControlTool\\view\\PACT_UserCompanyInfoSearch.xml",
+				"modules\\PersonnelAccessControlTool\\view\\PACT_UserCompanyInfoSearch.xml"
+			],
+			[
+				"PACT_UserCompanyInfo",
+				"modules\\PersonnelAccessControlTool\\view\\PACT_UserCompanyInfo.xml"
+			],
+			[
+				"view/PACT_EngineerAddEdit.xml",
+				"modules\\PersonnelAccessControlTool\\view\\PACT_EngineerAddEdit.xml"
+			],
+			[
+				"irm save.asp",
+				"modules\\IRM\\save.asp"
+			],
+			[
+				"mainframe.html",
+				"mainframe.html"
+			],
+			[
+				"template/standard",
+				"template\\standard\\grid_main_page.html"
+			],
+			[
+				"template\\standard\\grid_main_page.html",
+				"template\\standard\\grid_main_page.html"
+			],
+			[
+				"index",
+				"index.asp"
+			],
+			[
+				"modules/MyProject/js/functions.js",
+				"modules\\MyProject\\js\\functions.js"
+			],
+			[
+				"xml/CP_Task_Edit.xsl",
+				"xml\\CP_Task_Edit.xsl"
+			],
+			[
+				"CP_Project.xsl",
+				"modules\\MyProject\\xml\\CP_Project.xsl"
+			],
+			[
+				"modules\\MyProject\\xml\\CP_Task.xsl",
+				"modules\\MyProject\\xml\\CP_Task.xsl"
+			],
+			[
+				"xml/CP_Task_Edit_Engineer.xsl",
+				"xml\\CP_Task_Edit_Engineer.xsl"
+			],
+			[
+				"xml/CP_Task_Edit_Poland.xsl",
+				"xml\\CP_Task_Edit_Poland.xsl"
+			],
+			[
+				"xml/CP_Task.xml",
+				"xml\\CP_Task.xml"
+			],
+			[
+				"ManageProject/xml/CP_Project_Templates.xsl",
+				"modules\\ManageProject\\xml\\CP_Project_Templates.xsl"
+			],
+			[
+				"modules/MyProject/cpproj.asp",
+				"modules\\MyProject\\cpproj.asp"
+			],
+			[
+				"cpproj_view.asp",
+				"cpproj_view.asp"
+			],
+			[
+				"ms table",
+				"include\\ms_table_cls.asp"
+			],
+			[
+				"include/config.asp",
+				"include\\config.asp"
+			],
+			[
+				"modules irm global",
+				"modules\\IRM\\js\\global.js"
+			],
+			[
+				"global.js ",
+				"chlist\\js\\global.js"
+			],
+			[
+				"teleco",
+				"modules\\MocOrders\\Telecom_Italy\\telecomItaly_save.asp"
+			],
+			[
+				"modules/IRM/functions.asp",
+				"modules\\IRM\\functions.asp"
+			],
+			[
+				"po_number",
+				"modules\\IRM\\xml\\PO_Numbers.xsl"
+			],
+			[
+				"modules\\IRM\\functions.asp",
+				"modules\\IRM\\functions.asp"
+			],
+			[
+				"service catalo",
+				"modules\\MocOrders\\VM_MDS\\ServiceCatalogue\\js\\serviceCatalogue.js"
+			],
+			[
+				"modules/ProjectGovernance/forecastUploaderAll.aspx",
+				"modules\\ProjectGovernance\\forecastUploaderAll.aspx"
+			],
+			[
+				"forecastUpdateAll.html",
+				"modules\\ProjectGovernance\\html\\forecastUpdateAll.html"
+			],
+			[
+				"PG_REP.ASP",
+				"pg_rep.asp"
+			],
+			[
+				"rep.asp",
+				"rep.asp"
+			],
+			[
+				"jquery",
+				"js\\jquery-3.2.0.js"
+			],
+			[
+				"/html/search.html",
+				"modules\\IRM\\html\\search.html"
+			],
+			[
+				"modules\\IRM\\xml\\Report_Requirements.xml",
+				"modules\\IRM\\xml\\Report_Requirements.xml"
+			],
+			[
+				"include/export.asp",
+				"include\\export.asp"
+			],
+			[
+				"cpproj_custom_report.htm",
+				"cpproj_custom_report.htm"
+			],
+			[
+				"cpproj_custom_report.asp",
+				"cpproj_custom_report.asp"
+			],
+			[
+				"fpc.asp",
+				"fpc.asp"
+			],
+			[
+				"telecom",
+				"modules\\MocOrders\\Telecom_Italy\\telecomItaly_save.asp"
+			],
+			[
+				"modules/IRM/js/functions.js",
+				"modules\\IRM\\js\\functions.js"
+			],
+			[
+				"modules/IRM/js/search.js",
+				"modules\\IRM\\js\\search.js"
+			],
+			[
+				"modules/IRM/js/administration.js",
+				"modules\\IRM\\js\\administration.js"
+			],
+			[
+				"modules/IRM/js/global.js",
+				"modules\\IRM\\js\\global.js"
+			],
+			[
+				"html/reports.html",
+				"modules\\IRM\\html\\reports.html"
+			],
+			[
+				"modules\\IRM\\xml\\Requirements_To_Orders_Save.xml",
+				"modules\\IRM\\xml\\Requirements_To_Orders_Save.xml"
+			],
+			[
+				"modules\\IRM\\xml\\Deliveries_New.xml",
+				"modules\\IRM\\xml\\Deliveries_New.xml"
+			],
+			[
+				"modules\\IRM\\xml\\Requirements.xml",
+				"modules\\IRM\\xml\\Requirements.xml"
+			],
+			[
+				"modules\\IRM\\xml\\RequirementsMaterials.xml",
+				"modules\\IRM\\xml\\RequirementsMaterials.xml"
+			],
+			[
+				"refreshSession.asp",
+				"refreshSession.asp"
+			],
+			[
+				"chlist/xml/chl_MDS/ajax.asp",
+				"chlist\\xml\\chl_MDS\\ajax.asp"
+			],
+			[
+				"service calat .js",
+				"modules\\MocOrders\\VM_MDS\\ServiceCatalogue\\js\\serviceCatalogue.js"
+			],
+			[
+				"chlist/xml/chl_MDS/js/checklists/Confirm_Technical_Validation.js",
+				"chlist\\xml\\chl_MDS\\js\\checklists\\Confirm_Technical_Validation.js"
+			],
+			[
+				"service catalogue .js",
+				"modules\\MocOrders\\VM_MDS\\ServiceCatalogue\\js\\serviceCatalogue.js"
+			],
+			[
+				"CNLINK2_chlist.js",
+				"chlist\\xml\\chl_CnLink2\\js\\CNLINK2_chlist.js"
+			],
+			[
+				"global.js",
+				"chlist\\js\\global.js"
+			],
+			[
+				"chlist/xml/chl_MDS/validationUploader.aspx",
+				"chlist\\xml\\chl_MDS\\validationUploader.aspx"
+			],
+			[
+				"chlist/xml/chl_MDS/ETVvalidationUploader.aspx",
+				"chlist\\xml\\chl_MDS\\ETVvalidationUploader.aspx"
+			],
+			[
+				"cct.asp",
+				"cct.asp"
+			],
+			[
+				"mds html",
+				"modules\\MocOrders\\VM_MDS\\html\\mds.html"
+			],
+			[
+				"capacity",
+				"js\\capacity.js"
+			],
+			[
+				"REP_Report_Templates_Add.xsl",
+				"modules\\ReportTemplates\\xml\\REP_Report_Templates_Add.xsl"
+			],
+			[
+				"modules/CustomReport/cpproj_custom_report_templates.htm",
+				"modules\\CustomReport\\cpproj_custom_report_templates.htm"
+			],
+			[
+				"calendar js",
+				"modules\\CalendarPlanning\\js\\calendar.js"
+			],
+			[
+				"modules/ReportTemplates/request_handler.asp",
+				"modules\\ReportTemplates\\request_handler.asp"
+			],
+			[
+				"xml\\Activities_Edit.xsl",
+				"modules\\MocOrders\\VM_MDS\\xml\\Activities_Edit.xsl"
+			],
+			[
+				"chlist\\xml\\chl_MDS\\validationUploader.aspx",
+				"chlist\\xml\\chl_MDS\\validationUploader.aspx"
+			],
+			[
+				"xml\\NCReg_Edit.xsl",
+				"modules\\MocOrders\\VM_MDS\\xml\\NCReg_Edit.xsl"
+			],
+			[
+				"xml\\NCReg.xml",
+				"modules\\MocOrders\\VM_MDS\\xml\\NCReg.xml"
+			],
+			[
+				"\\xml\\MDS.xml",
+				"modules\\MocOrders\\VM_MDS\\xml\\MDS.xml"
+			],
+			[
+				"xml\\MDS_Edit.xsl",
+				"modules\\MocOrders\\VM_MDS\\xml\\MDS_Edit.xsl"
+			],
+			[
+				"xml\\MDS_Edit_Soc.xsl",
+				"modules\\MocOrders\\VM_MDS\\xml\\MDS_Edit_Soc.xsl"
+			],
+			[
+				"xml/NCReg.xml",
+				"modules\\MocOrders\\VM_MDS\\xml\\NCReg.xml"
+			],
+			[
+				"/include/cs/upload.cs",
+				"Capacity\\Capacity\\MMS\\include\\cs\\upload.cs"
+			],
+			[
+				"/modules/MocOrders/VM_MDS/js/mds.js",
+				"Capacity\\Capacity\\MMS\\modules\\MocOrders\\VM_MDS\\js\\mds.js"
+			],
+			[
+				"chlist/xml/chl_MDS/js/mds_v3.js",
+				"chlist\\xml\\chl_MDS\\js\\mds_v3.js"
+			],
+			[
+				"chlist/xml/chl_MDS/js/common.js",
+				"chlist\\xml\\chl_MDS\\js\\common.js"
+			],
+			[
+				"xml/MDS.xml",
+				"modules\\MocOrders\\VM_MDS\\xml\\MDS.xml"
+			],
+			[
+				"telecom functioasp",
+				"modules\\MocOrders\\Telecom_Italy\\functions.asp"
+			],
+			[
+				"main.xml",
+				"xml\\MainMenu.xml"
+			],
+			[
+				"config.asp",
+				"include\\config.asp"
+			],
+			[
+				"ms_table_cls",
+				"include\\ms_table_cls.asp"
+			],
+			[
+				"export.asp",
+				"include\\export.asp"
+			],
+			[
+				"CCT_Service_Catalog_Search.xml",
+				"modules\\CCT\\xml\\CCT_Service_Catalog_Search.xml"
+			],
+			[
+				"modules/ProjectGovernance/functions.asp",
+				"modules\\ProjectGovernance\\functions.asp"
+			],
+			[
+				"main.css",
+				"template\\standard\\css\\main.css"
+			],
+			[
+				"telecomitaly.js",
+				"modules\\MocOrders\\Telecom_Italy\\js\\telecomItaly.js"
+			],
+			[
+				"mds.js",
+				"chlist\\xml\\chl_MDS\\js\\mds.js"
+			],
+			[
+				"CalendarPlanning.asp",
+				"CalendarPlanning.asp"
+			],
+			[
+				"Co_Calendar_Event_Edit",
+				"modules\\CalendarPlanning\\xml\\CO_Calendar_Event_Edit.xsl"
+			],
+			[
+				"Co_Calendar_Event_Edit.xml",
+				"modules\\CalendarPlanning\\xml\\CO_Calendar_Event_Edit.xml"
+			],
+			[
+				"telecom italy js",
+				"modules\\MocOrders\\Telecom_Italy\\js\\telecomItaly.js"
+			],
+			[
+				"Work_Element_Price_Active",
+				"modules\\MocOrders\\VM_MDS\\xml\\serviceCatalogue\\Work_Element_Price_Active.xsl"
+			],
+			[
+				"modules\\Financial\\financial.asp",
+				"modules\\Financial\\financial.asp"
+			],
+			[
+				"modules\\Financial\\uploadPaymentStatusTemplate.xls",
+				"modules\\Financial\\uploadPaymentStatusTemplate.xls"
+			],
+			[
+				"modules\\Financial\\xml\\SubcoBillingReports_Search.xsl",
+				"modules\\Financial\\xml\\SubcoBillingReports_Search.xsl"
+			],
+			[
+				"modules\\Financial\\xml\\SubcoBillingReports_Search.xm",
+				"modules\\Financial\\xml\\SubcoBillingReports_Search.xml"
+			],
+			[
+				"modules\\Financial\\html\\financial_report.html",
+				"modules\\Financial\\html\\financial_report.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"S:\\dawid_project_1.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"save",
+				"Save"
+			]
+		],
+		"width": 520.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

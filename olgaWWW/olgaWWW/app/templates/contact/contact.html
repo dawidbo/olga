@@ -1,0 +1,63 @@
+<script>
+// Example starter JavaScript for disabling form submissions if there are invalid fields
+// this use html 5 checkValidity() so we use angular or jquery validation
+(function() {
+  'use strict';
+  window.addEventListener('load', function() {
+    // Fetch all the forms we want to apply custom Bootstrap validation styles to
+    var forms = document.getElementsByClassName('needs-validation');
+    // Loop over them and prevent submission
+    var validation = Array.prototype.filter.call(forms, function(form) {
+      form.addEventListener('submit', function(event) {
+        if (form.checkValidity() === false) {
+          event.preventDefault();
+          event.stopPropagation();
+        }
+        form.classList.add('was-validated');
+      }, false);
+    });
+  }, false);
+})();
+</script>
+
+{% extends "layouts/base.html" %}
+{% block content %}
+
+	<div class="jumbotron jumbotron-fluid jumbotron-color mb-3">
+		<div class="container">
+			<table class="table table-hover text-center">
+				<thead><tr><th scope="col" colspan="2">Adres</th></tr></thead>
+				<tr><td>Miasto</td><td>{{ address.city }}</td></tr>
+				<tr><td>Ulica</td><td>{{  address.street }}</td></tr>
+				<tr><td>Telefon</td><td>{{ address.telephone }}</td></tr>
+				<tr><td>E-mail</td><td><a style="float:none;" href="mailto:{{ address.email }}">{{ address.email }}</a></td></tr>
+			</table>
+		</div>
+	</div>
+
+	<div class="d-flex justify-content-around  mb-2">
+		{% if messages %}
+			<ul class="messages text-md-center">
+				{% for message in messages %}
+					<li class="{{ message.tags }}">{{ message }}</li>
+				{% endfor %}
+			</ul>
+		{% endif %}
+	</div>
+
+	<div class="jumbotron jumbotron-fluid jumbotron-color">
+		<div class="container">
+			{% if showForm %}
+				<div class="text-md-left font-weight-light">
+					<p class="text-md-center">Wyślij zapytanie</p>
+					<form class="!needs-validation" method="post" action="{% url 'contact' %}" novalidate>
+				    	{% csrf_token%}
+				        {{ contact }}
+				        <button type="submit" class="btn btn-success m-2">Send</button>
+				    </form>
+				</div>
+			{% endif %}
+		</div>
+	</div>
+
+{% endblock %}
