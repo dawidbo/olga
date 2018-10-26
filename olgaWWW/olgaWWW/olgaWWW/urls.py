@@ -1,6 +1,7 @@
 from django.contrib import admin
 from django.urls import path
 from django.conf.urls import url
+from django.views.generic import TemplateView
 import app.views as appViews
 
 urlpatterns = [
@@ -9,7 +10,6 @@ urlpatterns = [
 	url(r'offer/', appViews.offer, name='offer'),
 	url(r'pricing/', appViews.pricing, name='pricing'),
 	url(r'contact/', appViews.contact, name='contact'),
-	#url(r'resp/' appViews.resp, name='resp'),
-	#url(r'online/', appViews.online, name='online'),
+	url(r'online/', appViews.online, name='online'),
     path('admin/', admin.site.urls)
 ]

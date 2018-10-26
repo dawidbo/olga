@@ -3,6 +3,9 @@ from django.http import HttpRequest
 from datetime import datetime
 from .models import Articles,Price,Myaddress
 from .forms import ContactForm
+from django.contrib import messages
+from .functions import json
+
 def home(request):
     """Renders the home page."""
     assert isinstance(request, HttpRequest)
@@ -53,10 +56,6 @@ def pricing(request):
         }
     )
 
-
-
-from django.contrib import messages
-
 def contact(request):
     """Renders the contact page """
     assert isinstance(request, HttpRequest)
@@ -95,8 +94,9 @@ def contact(request):
                     'address' : address[0]
                 })
         else:
-            # validation failed
-            messages.error(request, 'Proszę wypełnij poprawnie wszystkie pola!')
+
+            error = json(form.errors.as_json())
+            messages.error(request,error.getMessageFormCleanValidation())
             return render(
                 request, 'contact/contact.html',
                 {
@@ -109,7 +109,7 @@ def contact(request):
             )
 
     else:
-        messages.error(request, 'Niepodziewany bląd, wyślij maila do dd@ap.pl!')
+        messages.error(request, 'Niepodziewany bląd, wyślij maila do db@ap.pl!')
         return render(
             request, 'contact/contact.html',
             {
@@ -117,25 +117,22 @@ def contact(request):
                 'year' : actualYearOfCopyright,
                 'contact' : None,
                 'showForm' : False,
-                 'address' : address[0]
+                'address' : address[0]
             }
         )
 
-'''
 def online(request):
-    """Renders the online page """
+    """Renders the register online page """
     assert isinstance(request, HttpRequest)
-    contact = Articles.objects.getOffer()
+
     return render(
         request,
-        'offer/offer.html',
+        'registrationOnLine/online.html',
         {
-            'title' : 'Offer',
+            'title' : 'Rejestracja online',
             'year'  : datetime.now().year,
-            'offer' : offer[0].content
+            'online' : ""
         }
 
 
     )
-
-    '''

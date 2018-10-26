@@ -17,7 +17,7 @@
 
 		<!-- Menu -->
 		<div class="navbar navbar-expand-md navbar-light bg-custom-bar">
-			<a class="navbar-brand" href="#"><img src="{% static 'img/flowerNoBgOne.png' %}" width="30" height="30" class="d-inline-block align-top"><span class="brand-name"> TAU</span></a>
+			<a class="navbar-brand" href="{% url 'home' %}"><img src="{% static 'img/flowerNoBgOne.png' %}" width="30" height="30" class="d-inline-block align-top"><span class="brand-name"> TAU</span></a>
 
 			<button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="icon-bar top-bar"></span>
@@ -30,12 +30,13 @@
 					<li class="nav-item"><a class="nav-link brand-name" href="{% url 'offer'%}">Oferta</a></li>
 					<li class="nav-item"><a class="nav-link brand-name" href="{% url 'pricing'%}">Cennik</a></li>
 					<li class="nav-item"><a class="nav-link brand-name" href="{% url 'contact'%}">Kontakt</a></li>
-					<li class="nav-item"><a class="nav-link brand-name" href="{% url 'pricing'%}">Rejestracja Online</a></li>
+					<li class="nav-item"><a class="nav-link brand-name" href="{% url 'online'%}">Rejestracja Online</a></li>
 				</ul>
 			</div>
 		</div>
 
 		<!-- Banner -->
+		<!--
 		<div id="carouselBanner" class="carousel slide" data-ride="carousel">
 			<ol class="carousel-indicators">
 				<li data-target="#carouselBanner" data-slide-to="0" class="active"></li>
@@ -62,7 +63,7 @@
 				<span class="sr-only">Next</span>
 			</a>
 		</div>
-
+ -->
 		<!-- Content -->
 
 		{% block content %}
